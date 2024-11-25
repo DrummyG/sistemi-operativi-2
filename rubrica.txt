@@ -1,0 +1,5 @@
+Ricercatore Mario Rossi mariorossi@libero.it
+Scrittore Raffaella Bianchi raffaella.bianchi@libero.it 3 Ricercatore John Doe john@gmail.com
+Ricercatore John Doe john@gmail.com
+Insegnante Raffaella Di Caprio raff.caprio@gmail.com
+Ricercatore Marco Marrone marco@tiscali.it
